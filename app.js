@@ -23,9 +23,9 @@ app.use('/employee',emprouter);
 var mysql = require('mysql');
 var mysql_config = {
     host:'us-cdbr-east-06.cleardb.net',
-    user:'b6cb1d44dee95a',
-    password:'6d956c57',
-    database:'heroku_12bcf914abfa859'
+    user:'b017c2fde114f1',
+    password:'ffdb4671',
+    database:'heroku_13c8c9663d78429'
 };
 
 
